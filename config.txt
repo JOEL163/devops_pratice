@@ -1,1 +1,2 @@
 I'm new to GIT I want master it 
+I have done the git push
